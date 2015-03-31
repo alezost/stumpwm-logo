@@ -1,7 +1,7 @@
 ## About
 
 My variants of
-[StumpWM logo](https://github.com/sabetts/stumpwm/wiki/NewLogo) –
+[StumpWM logo](https://github.com/stumpwm/stumpwm/wiki/NewLogo) –
 [SVG](http://en.wikipedia.org/wiki/Svg) files made in
 [Inkscape](http://www.inkscape.org/en/).
 
