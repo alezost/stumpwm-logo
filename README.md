@@ -5,10 +5,8 @@ My variants of
 [SVG](http://en.wikipedia.org/wiki/Svg) files made in
 [Inkscape](http://www.inkscape.org/en/).
 
-Preview:
+## Preview
 
-![main](https://raw2.github.com/alezost/stumpwm-logo/master/stumpwm-logo.png)
+![main](https://raw.githubusercontent.com/alezost/stumpwm-logo/master/stumpwm-logo.png)
 
-![simple](https://raw2.github.com/alezost/stumpwm-logo/master/stumpwm-logo-strokes.png)
-
-
+![simple](https://raw.githubusercontent.com/alezost/stumpwm-logo/master/stumpwm-logo-strokes.png)
